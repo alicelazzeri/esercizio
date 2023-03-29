@@ -4,7 +4,7 @@ function MyFooter() {
   return (
     <Container fluid>
       <footer className="bg-success d-flex justify-content-between align-items-center pt-3 px-4">
-        <p className="text-white fw-light">"Books are a uniquely portable magic.✨"</p>
+        <p className="text-white fw-light">"Books are a uniquely portable magic. ✨"</p>
         <br />
         <p className="text-light">EpiBooks &copy; 2023</p>
       </footer>
